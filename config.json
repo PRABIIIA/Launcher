@@ -3,6 +3,6 @@
     "version": 19,
     "date": "2025-11-28T18:45:00Z",
     "jre-path": "jre%s.zip",
-    "launcher-path": "Launcher-obf.jar",
+    "launcher-path": "Launcher.jar",
 	"starter-path": "DreamLauncher"
 }
